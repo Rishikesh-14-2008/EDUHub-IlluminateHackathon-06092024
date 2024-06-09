@@ -1,0 +1,32 @@
+{
+    "products": [
+        
+          
+          
+        {
+            "id": 21,
+            "title": "Math Topics - Algebra, Geometry, Calculas - Khan Acdemty, MathIsFun, KutaSoftware",
+            
+            "image": "./images/Interesting-Math-Topics.png",
+            "price": 0,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Science Topics - Biology, Physics, Chemistry - Khan Acdemy, Brilliant.org, YouTube",
+            "image": "./images/sciencetopics.jpg",
+            "price": 0,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Computer Science Topics - Python, Java, C++ - Khan Acdemy, W3 Schools, and Coursera",
+            "image": "./images/computerScienceTopics.png",
+            "price": 0,
+            "category": "Featured Products"
+        }
+
+    ]
+}
